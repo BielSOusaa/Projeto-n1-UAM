@@ -4,8 +4,11 @@
 Desafios do programa;
 -------------------------------------------------------------------------------------
 Usar apenas um bloco de repetição, podendo ser while.
+
 Usar apenas um bloco condicional, contendo apenas um if, elif e else.
+
 Não é permitido usar if’s internos.
+
 Não é permitido usar o comando switch-case.
 
 RPG criado a partir destes critérios;
