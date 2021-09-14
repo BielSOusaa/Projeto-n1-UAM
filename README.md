@@ -6,7 +6,7 @@ Igor Rodrigues Chanes | 21550507
 
 Gabriel de Sousa Carvalho Ferreira | 21441903
 
-Ana Laura Pereira Kettene |
+Ana Laura Pereira Kettene | 21515419
 
 Leonardo Correia Barbosa |
 
