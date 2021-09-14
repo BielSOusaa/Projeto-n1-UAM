@@ -18,6 +18,7 @@ Ter feito menos de 7 movimentos.
 
 
 N1 - Técnicas de Programação
+-------------------------------------------------------------------------------------
 
 
 Igor Rodrigues Chanes | 21550507
