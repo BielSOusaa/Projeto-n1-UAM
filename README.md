@@ -14,7 +14,7 @@ RPG criado a partir destes critérios;
 Ganha ao chegar na sala 9.
 Sala 6 tem apenas uma direção.
 Sala 8 tem um portal que te leva a sala 1 2 3 4 ou 5.
-Ter feito menos de 7 movimentos.
+Ter feito menos de 7 movimentos
 
 
 N1 - Técnicas de Programação
