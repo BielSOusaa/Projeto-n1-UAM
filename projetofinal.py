@@ -5,7 +5,7 @@ caminho = 0
 jogadas = 0
 
 
-print("\nHoje você será o líder de uma guilda de heróis! Como todo bom líder, você deverá guiar os guerreiros através do labirinto.\n")
+print("\nHoje você será o líder de uma guilda de heróis! Como todo bom líder, você guiará os guerreiros através do labirinto.\n")
 
 while sala < 9 and jogadas < 7:
     caminho = int(input("Qual caminho você seguirá ?\n[1] Vermelho\n[2] Preto\nEscolha : "))
