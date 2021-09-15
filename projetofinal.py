@@ -22,7 +22,7 @@ while sala < 9 and jogadas < 7:
     print("\nSua sala atual é : {}\n".format(sala))
     jogadas = jogadas + 1
 if(sala == 9):
-    print("Veuogngae vocnceu! Parabens por chegar na sala 9
+    print("Você venceu! Parabens por chegar na sala 9 !!!")
 elif(jogadas >= 7):
     print("Você perdeu por usar todas as jogadas!")
 print("Total de jogadas : {}\n".format(jogadas))
