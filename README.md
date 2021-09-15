@@ -23,7 +23,7 @@ Sala 8 tem um portal que te leva a sala 1 2 3 4 ou 5.
 Ter feito menos de 7 movimentos.
 
 
-N1 - Técnicas de Programação
+N1 - Técnicas de Programação - (GRUPO 7)
 --------------------------------------------------------------------------------------
 
 
