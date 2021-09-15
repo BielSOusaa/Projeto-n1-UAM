@@ -24,5 +24,5 @@ while sala < 9 and jogadas < 7:
 if(sala == 9):
     print("Você venceu! Parabens por chegar na sala 9 !!!")
 elif(jogadas >= 7):
-    print("Você perdeu por excesso de jogadas!")
+    print("Você perdeu por usar todas as jogadas!")
 print("Total de jogadas : {}\n".format(jogadas))
